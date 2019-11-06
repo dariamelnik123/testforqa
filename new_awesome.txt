@@ -1,3 +1,5 @@
-name Daria
-surname Melnik
-pass 123
+name: Daria
+surname: Melnik
+dogName:
+elseName:
+everyName:
