@@ -1,5 +1,5 @@
 name: Daria
 surname: Melnik
-dogName:
-elseName:
-everyName:
+dogName: empty
+elseName: ne tvoe delo
+everyName: tem ne tvoe delo
